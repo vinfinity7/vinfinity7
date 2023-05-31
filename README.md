@@ -8,9 +8,9 @@
 
 - 🤝 I’m looking for help in **Blockchain dev**
 
-- 👨‍💻 All of my projects are available at [vinfinity7](vinfinity7)
+- 👨‍💻 All of my projects are available at [vinfinity7](https://github.com/vinfinity7)
 
-- 📝 I will write articles on [Hashnode](Hashnode)
+- 📝 I will write articles on [Hashnode]
 
 - 💬 Ask me about **HTML, CSS, Js and Git**
 
