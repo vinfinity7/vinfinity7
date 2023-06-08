@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **saksham.misra.ece22@itbhu.ac.in**
 
-- ⚡ Fun fact **I will prefer Football always yk who !**
+- ⚡ Fun fact **I will  always prefer Football over yk who !**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
