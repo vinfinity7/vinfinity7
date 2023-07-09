@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [vinfinity7](https://github.com/vinfinity7)
 
-- 📝 I will write articles on [Hashnode]
-
 - 💬 Ask me about **HTML, CSS, Js and Git**
 
 - 📫 How to reach me **saksham.misra.ece22@itbhu.ac.in**
