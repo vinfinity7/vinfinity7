@@ -1,16 +1,12 @@
-<h3 align="center">SAKSHAM MISRA - Madridista</h3>
+<h3 align="center">SAKSHAM MISRA</h3>
 <img src="Screenshot 2023-06-01 021836.png"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinfinity7&label=Profile%20views&color=0e75b6&style=flat" alt="vinfinity7" /> </p>
 
 - 🔭 I’m currently working on **projects using React Js**
 
-- 🌱 I’m currently learning **React js**
-
-- 🤝 I’m looking for help in **Blockchain dev**
-
 - 👨‍💻 All of my projects are available at [vinfinity7](https://github.com/vinfinity7)
 
-- 💬 Ask me about **HTML, CSS, Js and Git**
+- 💬 Ask me about **HTML, CSS, Js ,React and Git**
 
 - 📫 How to reach me **saksham.misra.ece22@itbhu.ac.in**
 
