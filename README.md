@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **HTML, CSS, Js ,React , C++ , Three Js and Git**
 
-- 📫 How to reach me **saksham.misra.ece22@itbhu.ac.in**
-
 - ⚡ Fun fact **I will  always prefer Football over yk who !**
 
 <h3 align="center">Connect with me:</h3>
