@@ -4,7 +4,7 @@
 ### <div align="center">I'm [Saksham Misra](https://vinfinity7.github.io/Portfolio/page.html), a student, and developer from India. 🚀</div>
 <br>
 
-- 🔭 I’m currently working on **Travel Web App**
+- 🔭 I’m currently working on **Travel Web App** and **Something that's gonna blow your MIND**
 
 - 👨‍💻 All of my projects are available at [vinfinity7](https://github.com/vinfinity7)
 
