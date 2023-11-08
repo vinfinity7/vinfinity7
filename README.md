@@ -3,12 +3,9 @@
 
 ### <div align="center">I'm [Saksham Misra](https://vinfinity7.github.io/Portfolio/page.html), a student, and developer from India. 🚀</div>
 <br>
-
-- 🔭 I’m currently working on **Travel Web App** and **Something that's gonna blow your MIND**
-
 - 👨‍💻 All of my projects are available at [vinfinity7](https://github.com/vinfinity7)
 
-- 💬 Ask me about **HTML, CSS, Js ,React , C++ , Three Js and Git**
+- 💬 Ask me about **Next.js, HTML, CSS, JavaScript, React, C++, Three.js, and Git**
 
 - ⚡ Fun fact **I will  always prefer Football over yk who !**
 
