@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinfinity7&label=Profile%20views&color=0e75b6&style=flat" alt="vinfinity7" /> </p>
-[Buy Me a Coffee](https://www.buymeacoffee.com/vinfinity7)
+
 
 ### <div align="center">I'm [Saksham Misra](https://vinfinity7.github.io/Portfolio/page.html), a student, and developer from India. 🚀</div>
 <br>
