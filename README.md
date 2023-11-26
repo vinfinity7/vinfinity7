@@ -1,8 +1,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinfinity7&label=Profile%20views&color=0e75b6&style=flat" alt="vinfinity7" /> </p>
-
-Happy Blogging!
+<div align="center" >
+  
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate%20Now-brightgreen)](https://www.buymeacoffee.com/vinfinity7)
 [![GitHub](https://img.shields.io/github/followers/vinfinity7?label=Follow%20%40vinfinity7&style=social)](https://github.com/vinfinity7)
+</div>
+
 ### <div align="center">I'm [Saksham Misra](https://vinfinity7.github.io/Portfolio/page.html), a student, and developer from India. 🚀</div>
 <br>
 <img src="Screenshot 2023-11-12 010516.png"/>
