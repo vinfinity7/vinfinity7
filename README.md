@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [vinfinity7](https://github.com/vinfinity7)
 
-- 💬 Ask me about **Next.js, HTML, CSS, JavaScript, React, C++, Three.js, and Git**
+- 💬 Ask me about **Next.js, Haskell , HTML, CSS, JavaScript, React, C++, Three.js, and Git**
 
 - ⚡ Fun fact **I will  always prefer Football over yk who !**
 
