@@ -7,7 +7,9 @@
 
 ### <div align="center">I'm [Saksham Misra](https://vinfinity7.github.io/Portfolio/page.html), a student, and developer from India. 🚀</div>
 <br>
-<img src="Screenshot 2023-11-12 010516.png"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<br><br>
 
 - 👨‍💻 All of my projects are available at [vinfinity7](https://github.com/vinfinity7)
 
