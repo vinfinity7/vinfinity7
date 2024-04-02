@@ -32,6 +32,8 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinfinity7&show_icons=true&locale=en&theme=tokyonight" alt="vinfinity7" />
 <br>
 
+[![An image of @vinfinity7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinfinity7)](https://holopin.io/@vinfinity7)
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinfinity7&theme=tokyonight" alt="vinfinity7" />
 <br>
 
