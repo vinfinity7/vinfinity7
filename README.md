@@ -1,17 +1,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinfinity7&label=Profile%20views&color=0e75b6&style=flat" alt="vinfinity7" /> </p>
 <div align="center" >
-  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate%20Now-brightgreen)](https://www.buymeacoffee.com/vinfinity7)
-[![GitHub](https://img.shields.io/github/followers/vinfinity7?label=Follow%20%40vinfinity7&style=social)](https://github.com/vinfinity7)
-</div>
 
-### <div align="center">I'm [Saksham Misra](https://vinfinity7.github.io/Portfolio/page.html), a student, and developer from India. 🚀</div>
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"> </div>
 <br><br>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sakshamdev.vercel.app/)
 
 
 - 💬 Ask me about **Next.js, Haskell , HTML, CSS, JavaScript, React, C++, Three.js, and Git**
@@ -20,8 +14,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/saksham-misra-79334426b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-misra-79334426b/" height="30" width="40" /></a>
-<a href="https://instagram.com/sakzzham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakzzham" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
