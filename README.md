@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Saksham Misra</h1>
 
 <h3 align="center">
-Software Development Engineer • AI Enthusiast • Builder • Football Captain
+Software Development Engineer
 </h3>
 
 <p align="center">
@@ -180,13 +180,11 @@ while(alive){
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/saksham-misra-79334426b/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+
 
 </p>
 
